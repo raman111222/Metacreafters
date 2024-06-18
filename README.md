@@ -1,6 +1,6 @@
 # Project Title
 
-Simple overview of use/purpose.
+ETH PROOF: Beginner EVM Course final project
 
 ## Description
 
